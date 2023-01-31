@@ -1,4 +1,4 @@
-**Status** - 22-Jan-2020
+**Status** - 22-Jan-2021
 
 An outline of the API used by `package.elm-lang.org` has been created using `the-sett/elm-serverless`. This forwards all requests to the original package site, and relays the responses back to the caller.
 
